@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\n\ La\ classe\ Item\ est\ utilisee\ pour\ representer\ et\ avoir\ toute\ sorte\ d'information\ concernant\ un\ objet\ Item.\n\n\ @author\ Dembitskyi\ Danylo\n\ @version\ 27/05/2022\n
+comment1.params=pItemDescription\ pWeigth
+comment1.target=Item(java.lang.String,\ double)
+comment1.text=\n\ Conctructeur\ naturel\ de\ l'objet\ de\ type\ Item\ @param\ La\ dscription\ d'Item\ et\ le\ poids\n
+comment2.params=
+comment2.target=java.lang.String\ getItemDescription()
+comment2.text=\n\ Accesseur\ d'attribut\ (chaine\ de\ charactere)\ aItemDescription\n
+comment3.params=
+comment3.target=double\ getWeigth()
+comment3.text=\n\ Accesseur\ d'attribut\ aWeigth\n
+comment4.params=pItemDescription
+comment4.target=void\ setItemDescription(java.lang.String)
+comment4.text=\n\ Modificateur\ d'attribut\ aItemDescription\ @param\ Description\ d'un\ Item\ en\ parametres\n
+comment5.params=pWeigth
+comment5.target=void\ setWeigth(double)
+comment5.text=\n\ Modificteur\ d'attribut\ aWeigth\ @param\ Le\ poids\ de\ l'objet\ \n
+numComments=6

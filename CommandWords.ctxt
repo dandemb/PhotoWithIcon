@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\n\ This\ class\ holds\ an\ enumeration\ table\ of\ all\ command\ words\ known\ to\ the\ game.\n\ \n\ This\ class\ is\ part\ of\ the\ "Photo\ with\ Icon"\ application.\ \n\ "Photo\ with\ Icon"\ is\ a\ very\ simple,\ text\ based\ adventure\ game,\ inherited\ from\ "World\ of\ Zull".\ \ \n\ \n\ It\ is\ used\ to\ recognise\ commands\ as\ they\ are\ typed\ in.\n\n\ @author\ \ Michael\ Kolling\ and\ David\ J.\ Barnes\ +\ D.Bureau\ +Danylo\ Dembitskyi\n\ \n\ @version\ 2008.03.30\ +\ 2019.09.25\ +\ 17.02.2022\ +27.05.2022\n
+comment1.params=
+comment1.target=CommandWords()
+comment1.text=\n\ Constructor\ -\ initialise\ the\ command\ words.\n
+comment2.params=pString
+comment2.target=boolean\ isCommand(java.lang.String)
+comment2.text=\n\ Verifie\ si\ le\ String\ entre\ correspond\ a\ une\ commande\ valide.\n\ @return\ true\ si\ la\ commande\ est\ valide\n\ false\ autrement\n
+comment3.params=
+comment3.target=java.lang.String\ getCommandList()
+comment3.text=\n\ Un\ accesseur\ de\ commandes\ possibles.\ Return\ de\ type\ String.\ Une\ fonction.\n
+numComments=4

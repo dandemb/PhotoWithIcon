@@ -1,0 +1,4 @@
+go west
+go south
+take MagicCookie
+eat MagicCookie

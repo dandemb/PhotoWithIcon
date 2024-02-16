@@ -1,0 +1,14 @@
+eat
+look
+take Key
+drop Key
+go west
+go east
+go south
+go down
+go up 
+go north
+help
+eat MagicCookie
+inventory
+quit

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\ This\ main\ class\ creates\ and\ initialises\ all\ the\ others\:\ it\ creates\ alll\ rooms,creates\ the\ parser\ and\ starts\ the\ game.\n\ \n\ You\ are\ the\ teenager\ football\ fan\ who\ lives\ in\ Paris.\n\ Once\ you\ have\ heard\ the\ legend\ of\ football\ Lionel\ Messi\ is\ signed\ for\ Paris-Saint-Germain\n\ all\ you\ think\ is\ meet\ him\ in\ person\ and\ take\ a\ photo\ with\ him\!\ \n\ Because\ it's\ your\ favourite\ footballer\ of\ all\ time\!\ Unfourtunately,\ you\ don't\ know\ where\ he\ is\ now.\ \n\ Youre\ main\ mission\ is\ to\ find\ Messi.\ \n\ It\ also\ should\ be\ extended\ to\ make\ it\ more\ interesting\!\n\ To\ play\ this\ game,\ create\ an\ instance\ of\ this\ class\ and\ call\ the\ "play"\ method.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J.Barnes\ +\ D.Bureau\ +\ Danylo\ Dembitskyi\n\ \n\ @version\ 2006.03.30\ +\ 27.05.2022\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\n\ Creer\ le\ jeu\ et\ permet\ de\ lancer\ le\ jeu(ancienne\ methode\ play()).Permet\ de\ creer\ un\ interface\ avec\ les\ images.\n
+numComments=2

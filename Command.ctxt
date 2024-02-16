@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=This\ class\ holds\ information\ about\ a\ command\ that\ was\ issued\ by\ the\ user.\n\ A\ command\ currently\ consists\ of\ two\ strings\:\ a\ command\ word\ and\ a\ second\ word\ (for\ example,\ if\ the\ command\ was\ "take\ map",\ then\ the\ two\ strings\ obviously\ are\ "take"\ and\ "map").\ \n\ The\ way\ this\ is\ used\ is\:\ Commands\ are\ already\ checked\ for\ being\ valid\ command\ words.\ \n\ If\ the\ user\ entered\ an\ invalid\ command\ (a\ word\ that\ is\ not\ known)\ then\ the\ command\ word\ is\ .\ \n\ If\ the\ command\ had\ only\ one\ word,\ then\ the\ second\ word\ is\ .\n\n@author\ Michael\ Kolling\ and\ David\ J.Barnes\ +\ D.Bureau\ +\ Danylo\ Dembitskyi\n\n@version\ 2006.03.30\ +\ 27.05.2022\n
+comment1.params=pCommandWord\ pSecondWord
+comment1.target=Command(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructeur\ naturel\ de\ la\ classe\ Command\ @param\ Deux\ mots\ \n
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment2.text=\n\ Permet\ de\ recuperer\ premier\ mot\ entre\ par\ l'utilisateur\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\n\ Permet\ de\ recuperer\ deuxieme\ mot\ entre\ par\ l'utilisateur\n
+comment4.params=
+comment4.target=boolean\ hasSecondWord()
+comment4.text=\n\ Permet\ de\ savoir\ si\ le\ second\ mot\ est\ bien\ presente\ \n
+comment5.params=
+comment5.target=boolean\ isUnknown()
+comment5.text=\n\ Permet\ de\ savoir\ si\ l'utilisateur\ n'a\ entre\ aucun\ mot\n
+numComments=6

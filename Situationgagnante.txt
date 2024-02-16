@@ -1,0 +1,7 @@
+go west
+go south
+go west
+go south
+go west
+go west
+go west
