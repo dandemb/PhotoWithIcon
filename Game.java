@@ -27,4 +27,13 @@ public Game()
     this.aInterface = new UserInterface (this.aEngine);
     this.aEngine.setInterface(this.aInterface);
  }// Game();
+
+ 
+    /**
+     * Point d'entrée du jeu.
+     */
+    public static void main(String[] args) {
+        Game game = new Game();
+    }
+
 }//Game
